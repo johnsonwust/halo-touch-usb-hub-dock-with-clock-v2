@@ -119,7 +119,7 @@ The original guide recommends a layout similar to:
 The integrated 100 Mbps Ethernet port is described as suitable for basic or emergency use rather than high-performance networking.
 
 ## Operating Modes
-
+![Modes](images/Mode.png)
 ## USB Monitor Mode
 
 The device can display per-port electrical data including voltage, current, and power. The Chinese manual states that long-press gestures in the upper or lower touch areas can be used for port power switching and related controls.
