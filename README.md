@@ -47,6 +47,7 @@ The original manual describes the following interfaces and controls:
 | Knob | Rotary input for timing, control, and mode interaction |
 | Touch display | Main UI for status pages and interaction |
 
+![Overview](images/Port.png)
 ## Power Modes
 
 HALO TOUCH V2 supports two main power arrangements:
