@@ -47,7 +47,7 @@ The original manual describes the following interfaces and controls:
 | Knob | Rotary input for timing, control, and mode interaction |
 | Touch display | Main UI for status pages and interaction |
 
-![Overview](images/Port_EN.png)
+![Ports](images/Port_EN.png)
 ## Power Modes
 
 HALO TOUCH V2 supports two main power arrangements:
@@ -97,8 +97,7 @@ Expected directory structure:
 Do not delete required system files from the shipped TF card unless you have a verified backup.
 
 ## Wi-Fi Configuration
-
-According to the original manual:
+![Wi-Fi Connection](images/Connection.png)
 
 - Only **2.4 GHz Wi-Fi** is supported
 - Default hotspot SSID: `My-Ap`
