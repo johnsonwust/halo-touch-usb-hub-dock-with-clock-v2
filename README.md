@@ -9,7 +9,7 @@ English documentation repository for the **HALO TOUCH USB Hub Dock with Clock V2
 [License](./LICENSE)
 
 ## Overview
-
+![Overview](Overview.png)
 HALO TOUCH V2 is a compact desktop dock that combines a USB 2.0 hub, round IPS display, touch interface, rotary control, TF card storage, clock functions, media playback, and several utility modes for PC and desk use.
 
 Based on the official product listing and the original Chinese instructions, the device is positioned as a DIY desktop companion rather than a mass-market certified peripheral. It is designed for users who want a visually distinctive desk hub with monitoring, media, and control functions in one enclosure.
